@@ -28,6 +28,29 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 ![-](imgs/ipv42.JPG)       
 9. Fill them in to match as shown in the image below        
 ![-](imgs/ipv43.JPG)      
+10. Go to your PS4 and go into Settings>Network>Set Up Internet Connection   
+11. Choose **Use a LAN Cable** then choose **Custom** then choose **Manual** 
+12. Set *IP Address* to **10.1.1.2**  
+13. Set *Subnet Mask* to **255.255.255.0**   
+14. Set *Default Gateway* to **10.1.1.0**
+15. Set *Primary DNS* to **10.1.1.1**  
+16. Set *Secondary DNS* to **10.1.1.100** 
+17. Set *MTU Settings* to **Automatic** Set *Proxy Server* to **Do Not Use**   
+18 Test Internet Connection and once you get an IP Adresss go back to the home screen   
+19. Go into Goldhen at the top left of the home screen     
+20. Go into *Server Settings*    
+21. Enable the FTP server by making sure the box to the right of *Enabel FTP Server* is ticked      
+22. Find your Console IP address by going into Settings>System>System Information (if the steps above were followed it will be **10.1.1.2**)    
+23. Download and Install [Filezilla](https://filezilla-project.org/download.php?type=client)    
+24. In Filezilla at *Host:* type your PS4 IP address and in *Port:* type 2121 then press on *Quickconnect* then press *OK* on the popup window    
+25. On the left window of Filezilla go to where you made the folder *pkg* and drag and drop it to the right side window into the folder called *data*     
+![-](imgs/ftp.JPG)   
+(In the future you can go into the *data* folder and drag directly into the *pkg* folder)
+26. Go into Goldhen at the top left of the home screen        
+27. Go into Debug Settings        
+28. Under *Package Installer* change *Package Source* from usb[ usb:/ ] To Hdd [ hdd:/data/pkg/ ]   
+29. Go into Package Installer             
+From there you can choose to install any 1 pkg you want or alternatively you will be automatically asked if you want to install all the available pkgs     
 
      
 # FTP method over network to internal PS4 Storage    
