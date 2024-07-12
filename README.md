@@ -15,8 +15,8 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
      
 # FTP method over network to internal PS4 Storage    
 1. Follow one of my guides to jailbreak your console or use your own proccess        
-#[How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)               
-#[How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)       
+[How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)               
+[How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)       
 1. After Jailbreaking connect your PS4 to your home network over WiFi or Ethernet (WiFi and Ethernet Transfers with this method are significantly slower than direct PC to PS4 method above 
 2. Create a folder called *pkg* and put your pkgs inside of it        
 2. Go into Goldhen at the top left of the home screen     
