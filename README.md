@@ -2,7 +2,7 @@
 How To Install PS4 FPKG on Goldhen or ps4HEN    
 
 # USB Method     
-You can use any kind of USB drive or External USB HDD enclosure as long as it can run from the usb port and is formwatted in EXFAT   
+You can use any kind of USB drive or External USB HDD enclosure as long as it can power on from the usb port and is formwatted in EXFAT   
 1. Format your USB drive to EXFAT    
 2. Place your fpkgs on the usb drive    
 3. Follow one of my guides to jailbreak your console or use your own proccess     
@@ -21,7 +21,7 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 3. Create a folder called *pkg* and put your pkgs inside of it             
 4. Connect your PS4 to your PC with a LAN cable      
 5. On your PC go into Start>Settings>Network & Internet>Ethernet and then at the top right choose *Change Adapter Options*     
-6. Choose the ethernet Adapter you are using and right click on it then choose *properties*            
+6. Find the ethernet Adapter you are using and right click on it then choose *properties*            
 7. Double left click on *Internet Protocol Version 4 (TCP/IPv4)*              
 ![-](imgs/ipv4.JPG)          
 8. Press on the empty circle next to *Use the following IP address:* to unlock the fields below it       
