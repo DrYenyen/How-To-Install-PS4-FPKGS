@@ -9,7 +9,8 @@ You can use any kind of USB drive or External USB HDD enclosure as long as it ca
 [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)           
 [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)         
 4. Go into Goldhen at the top left of the home screen    
-5. Go into Debug Settings        
+5. Go into Debug Settings       
+6. Under *Package Installer* make sure *Package Source* is usb[ usb:/ ] if it is Hdd [ hdd:/data/pkg/ ]  change it to usb[ usb:/ ]      
 6. Go into Package Installer         
 From there you can choose to install any 1 pkg you want or alternatively you will be automatically asked if you want to install all the available pkgs         
 
