@@ -16,14 +16,14 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 # FTP method PC to PS4 (fastest transfer speed)    
 1. Follow one of my guides to jailbreak your console or use your own proccess        
 [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)               
-[How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)       
-2. After Jailbreaking connect your PS4 to your home network over WiFi or Ethernet (WiFi and Ethernet Transfers with this method are significantly slower than direct PC to PS4 method above 
-3. Create a folder called *pkg* and put your pkgs inside of it        
-4. Connect your PS4 to your PC with a LAN cable 
-5. On your PC go into Start>Settings>Network & Internet>Ethernet and then at the top right choose *Change Adapter Options*
-6. Choose the ethernet Adapter you are using and right click on it then choose *properties*        
-7. Double left click on *Internet Protocol Version 4 (TCP/IPv4)    
-![-](imgs/ipv4.JPG)   
+[How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)          
+2. After Jailbreaking connect your PS4 to your home network over WiFi or Ethernet (WiFi and Ethernet Transfers with this method are significantly slower than direct PC to PS4 method above     
+3. Create a folder called *pkg* and put your pkgs inside of it             
+4. Connect your PS4 to your PC with a LAN cable      
+5. On your PC go into Start>Settings>Network & Internet>Ethernet and then at the top right choose *Change Adapter Options*     
+6. Choose the ethernet Adapter you are using and right click on it then choose *properties*            
+7. Double left click on *Internet Protocol Version 4 (TCP/IPv4)        
+![-](imgs/ipv4.JPG)       
 8. Press on the empty circle next to *Use the following IP address:* to unlock the fields below    
 ![-](imgs/ipv42.JPG)   
 9. Fill them in to match as shown below    
