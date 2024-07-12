@@ -23,10 +23,10 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 5. On your PC go into Start>Settings>Network & Internet>Ethernet and then at the top right choose *Change Adapter Options*     
 6. Choose the ethernet Adapter you are using and right click on it then choose *properties*            
 7. Double left click on *Internet Protocol Version 4 (TCP/IPv4)*              
-![-](imgs/ipv4.JPG)       
-8. Press on the empty circle next to *Use the following IP address:* to unlock the fields below    
-![-](imgs/ipv42.JPG)   
-9. Fill them in to match as shown below    
+![-](imgs/ipv4.JPG)          
+8. Press on the empty circle next to *Use the following IP address:* to unlock the fields below it       
+![-](imgs/ipv42.JPG)       
+9. Fill them in to match as shown in the image below        
 ![-](imgs/ipv43.JPG)      
 
      
