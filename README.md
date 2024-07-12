@@ -34,9 +34,9 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 13. Set *Subnet Mask* to **255.255.255.0**   
 14. Set *Default Gateway* to **10.1.1.0**
 15. Set *Primary DNS* to **10.1.1.1**  
-16. Set *Secondary DNS* to **10.1.1.100** 
-17. Set *MTU Settings* to **Automatic** Set *Proxy Server* to **Do Not Use**   
-18 Test Internet Connection and once you get an IP Adresss go back to the home screen   
+16. Set *Secondary DNS* to **10.1.1.100**  
+17. Set *MTU Settings* to **Automatic** Set *Proxy Server* to **Do Not Use**      
+18. Test Internet Connection and once you get an IP Adresss go back to the home screen      
 19. Go into Goldhen at the top left of the home screen     
 20. Go into *Server Settings*    
 21. Enable the FTP server by making sure the box to the right of *Enabel FTP Server* is ticked      
