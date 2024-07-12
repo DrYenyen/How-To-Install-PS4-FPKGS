@@ -29,6 +29,6 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 (In the future you can go into the *data* folder and drag directly into the *pkg* folder)
 11. Go into Goldhen at the top left of the home screen        
 12. Go into Debug Settings        
-13. Under *Pakcage Installer* change usb[ usb:/ ] To Hdd [ hdd:/data/pkg/ ]   
+13. Under *Package Installer* change *Package Source* from usb[ usb:/ ] To Hdd [ hdd:/data/pkg/ ]   
 14. Go into Package Installer             
 From there you can choose to install any 1 pkg you want or alternatively you will be automatically asked if you want to install all the available pkgs     
