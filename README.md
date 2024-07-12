@@ -26,6 +26,7 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 8. Download and Install [Filezilla](https://filezilla-project.org/download.php?type=client)    
 9. In Filezilla at *Host:* type your PS4 IP address and in *Port:* type 2121 then press on *Quickconnect* then press *OK* on the popup window    
 10. On the left window of Filezilla go to where you made the folder *pkg* and drag and drop it to the right side window into the folder called *data*     
+![-](imgs/ftp.JPG)   
 (In the future you can go into the *data* folder and drag directly into the *pkg* folder)
 11. Go into Goldhen at the top left of the home screen        
 12. Go into Debug Settings        
