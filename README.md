@@ -75,4 +75,17 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 12. Go into Debug Settings        
 13. Under *Package Installer* change *Package Source* from usb[ usb:/ ] To Hdd [ hdd:/data/pkg/ ]   
 14. Go into Package Installer             
-From there you can choose to install any 1 pkg you want or alternatively you will be automatically asked if you want to install all the available pkgs     
+From there you can choose to install any 1 pkg you want or alternatively you will be automatically asked if you want to install all the available pkgs       
+
+# Direct Package Installer and Remote Package Sender soon    
+
+
+# Other guides       
+# 1. [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)          
+# 2. [How to manually update PS4 firmware](https://github.com/DrYenyen/PS4-Firware-Update-Guide)                        
+# 3. [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)                       
+# 4. [How to set up PPPwn on a OpenWRT compatible router(by FalsePhilosopher)](https://github.com/FalsePhilosopher/PPPwnWRT)           
+
+
+
+
