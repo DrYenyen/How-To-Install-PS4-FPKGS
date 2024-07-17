@@ -1,3 +1,10 @@
+# What are FPKGS       
+1. Ripped games from a disc, digital game, game update or DLC that are converted to fake package for easy installation     
+2. Homebrew apps like Appolo Save tool and Itemzflow        
+3. Repackaged PS1, PS2 or PSP games made to work through emulation        
+ETC      
+       
+        
 # How-To-Install-PS4-FPKGs
 How To Install PS4 FPKG on Goldhen      
 
