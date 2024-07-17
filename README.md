@@ -6,7 +6,7 @@ ETC
        
         
 # How-To-Install-PS4-FPKGs
-How To Install PS4 FPKG on Goldhen      
+How To Install PS4 FPKG on Goldhen (Note Instalation from the internal HDD is not supported by PS4hen VTX)          
 
 # USB Method     
 You can use any kind of USB drive or External USB HDD enclosure as long as it can power on from the usb port and is formwatted in EXFAT   
