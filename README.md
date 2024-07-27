@@ -49,7 +49,7 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 18. Test Internet Connection and once you get an IP Adresss go back to the home screen      
 19. Go into Goldhen at the top left of the home screen     
 20. Go into *Server Settings*    
-21. Enable the FTP server by making sure the box to the right of *Enabel FTP Server* is ticked      
+21. Enable the FTP server by making sure the box to the right of *Enable FTP Server* is ticked      
 22. Find your Console IP address by going into Settings>System>System Information (if the steps above were followed it will be **10.1.1.2**)    
 23. Download and Install [Filezilla](https://filezilla-project.org/download.php?type=client)    
 24. In Filezilla at *Host:* type your PS4 IP address and in *Port:* type 2121 then press on *Quickconnect* then press *OK* on the popup window    
