@@ -52,7 +52,7 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 21. Enable the FTP server by making sure the box to the right of *Enable FTP Server* is ticked      
 22. Find your Console IP address by going into Settings>System>System Information (if the steps above were followed it will be **10.1.1.2**)    
 23. Download and Install [Filezilla](https://filezilla-project.org/download.php?type=client)     
-24. In Filezilla at *Host:* type your PS4 IP address and and the ftp port  **Exmple** > ftp://192.168.0.1:2121 (If the connection fails type in a username anything will do)
+24. In Filezilla in *Host:* type your PS4 IP address and and the ftp port  **Exmple** > ftp://192.168.0.1:2121 (If the connection fails type in a username anything will do)
 25. On the left window of Filezilla go to where you made the folder *pkg* and drag and drop it to the right side window into the folder called *data*     
 ![-](imgs/ftp.JPG)   
 (In the future you can go into the *data* folder and drag directly into the *pkg* folder)
@@ -74,7 +74,7 @@ From there you can choose to install any 1 pkg you want or alternatively you wil
 6. Enable the FTP server by making sure the box to the right of *Enabel FTP Server* is ticked      
 7. Find your Console IP address by going into Settings>System>System Information  
 8. Download and Install [Filezilla](https://filezilla-project.org/download.php?type=client)    
-9. In Filezilla at *Host:* type your PS4 IP address and and the ftp port  **Exmple** > ftp://192.168.0.1:2121  (If the connection fails type in a username anything will do)
+9. In Filezilla in *Host:* type your PS4 IP address and and the ftp port  **Exmple** > ftp://192.168.0.1:2121  (If the connection fails type in a username anything will do)
 10. On the left window of Filezilla go to where you made the folder *pkg* and drag and drop it to the right side window into the folder called *data*     
 ![-](imgs/ftp.JPG)   
 (In the future you can go into the *data* folder and drag directly into the *pkg* folder)
